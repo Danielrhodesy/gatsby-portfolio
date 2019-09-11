@@ -1,38 +1,31 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
+title: Kiwi Road Tripper
+date: "2019-06-19T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/humane-typography-in-the-digital-age/"
-category: "Typography"
+slug: "/posts/new-zealand-road-tripper/"
+category: "Enspiral Dev Academy"
 tags:
-  - "Design"
-  - "Typography"
+  - "React"
   - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
-socialImage: "/media/42-line-bible.jpg"
+description: "Kiwi Road Tripper is an application to help tourists or just local people of New Zealand to figure out and plan their route through our huge databases full of unique locations to visit. With a simple flowing design to help keep the complication of the app to as minimal as possible. Using React, Redux, mySQL Databases and with keeping the team of 6 in an agile process to have constant checks with our product owners."
+socialImage: ""
 ---
 
-- [The first transition](#the-first-transition)
-- [The digital age](#the-digital-age)
-- [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
-- [Chasing perfection](#chasing-perfection)
 
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+## About Kiwi Road Tripper
 
-The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
+This application was created in a week with 6 people. Our strengths and weaknesses really showed in this timeframe as we had little time to create a full stack application. With our group sticking to a agile process with daily stand ups and check ins with our product manager we kep to track as much as we could. 
 
-But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.
+If we had internal issues we would divide time to resolve them. We use React, Redux, mySQL to create databases for our local API's so we could manipulate data for the user to see when they toggled it with our suggestions bar. We used leaflet for our maps and had to learn this libraries documentation to fully use it for the project. 
 
-## The first transition
+The application also has more functions as a functional bill splitter to help users split payments during their trip. Also an itinerary to help the user organise their trip. Each one of these functions went on a process of constant redesigning as we had small UX process with getting outside information and trials with our current start functions and made improvements.
 
-A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.
+<a>http://kiwiroadtrip.herokuapp.com/#/</a>
 
-The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.
+![42-line-bible.jpg](/media/kiwiroadtripper.png)
 
-![42-line-bible.jpg](/media/42-line-bible.jpg)
-
-*The 42–Line Bible, printed by Gutenberg.*
+<!-- *The 42–Line Bible, printed by Gutenberg.*
 
 But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.
 
@@ -77,4 +70,4 @@ We lost a part of ourselves because of this chase after perfection. We forgot ab
 
 Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?
 
-*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*
+*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).* -->
