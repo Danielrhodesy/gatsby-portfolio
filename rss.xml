@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by John Doe]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Sep 2019 11:46:16 GMT</lastBuildDate><item><title><![CDATA[Kiwi Road Tripper]]></title><description><![CDATA[Kiwi Road Tripper is an application to help tourists or just local people of New Zealand to figure out and plan their route through our huge databases full of unique locations to visit. With a simple flowing design to help keep the complication of the app to as minimal as possible. Using React, Redux, mySQL Databases and with keeping the team of 6 in an agile process to have constant checks with our product owners.]]></description><link>https://lumen.netlify.com/posts/new-zealand-road-tripper/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/new-zealand-road-tripper/</guid><pubDate>Wed, 19 Jun 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;about-kiwi-road-tripper&quot;&gt;&lt;a href=&quot;#about-kiwi-road-tripper&quot; aria-label=&quot;about kiwi road tripper permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;About Kiwi Road Tripper&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by John Doe]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Sep 2019 11:52:05 GMT</lastBuildDate><item><title><![CDATA[Kiwi Road Tripper]]></title><description><![CDATA[Kiwi Road Tripper is an application to help tourists or just local people of New Zealand to figure out and plan their route through our huge databases full of unique locations to visit. With a simple flowing design to help keep the complication of the app to as minimal as possible. Using React, Redux, mySQL Databases and with keeping the team of 6 in an agile process to have constant checks with our product owners.]]></description><link>https://lumen.netlify.com/posts/new-zealand-road-tripper/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/new-zealand-road-tripper/</guid><pubDate>Wed, 19 Jun 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;about-kiwi-road-tripper&quot;&gt;&lt;a href=&quot;#about-kiwi-road-tripper&quot; aria-label=&quot;about kiwi road tripper permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;About Kiwi Road Tripper&lt;/h2&gt;
 &lt;p&gt;This application was created in a week with 6 people. Our strengths and weaknesses really showed in this timeframe as we had little time to create a full stack application. With our group sticking to a agile process with daily stand ups and check ins with our product manager we kep to track as much as we could. &lt;/p&gt;
 &lt;p&gt;If we had internal issues we would divide time to resolve them. We use React, Redux, mySQL to create databases for our local API’s so we could manipulate data for the user to see when they toggled it with our suggestions bar. We used leaflet for our maps and had to learn this libraries documentation to fully use it for the project. &lt;/p&gt;
 &lt;p&gt;The application also has more functions as a functional bill splitter to help users split payments during their trip. Also an itinerary to help the user organise their trip. Each one of these functions went on a process of constant redesigning as we had small UX process with getting outside information and trials with our current start functions and made improvements.&lt;/p&gt;
@@ -9,7 +9,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png&quot;
+    href=&quot;/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -20,28 +20,28 @@
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/081c23e303770082bbcf9019c7be2972/01472/kiwiroadtripper.webp 240w,
-/static/081c23e303770082bbcf9019c7be2972/222bd/kiwiroadtripper.webp 480w,
-/static/081c23e303770082bbcf9019c7be2972/620b9/kiwiroadtripper.webp 960w,
-/static/081c23e303770082bbcf9019c7be2972/28063/kiwiroadtripper.webp 1440w,
-/static/081c23e303770082bbcf9019c7be2972/34ef4/kiwiroadtripper.webp 1920w,
-/static/081c23e303770082bbcf9019c7be2972/367c7/kiwiroadtripper.webp 2880w&quot;
+          srcset=&quot;/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/01472/kiwiroadtripper.webp 240w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/222bd/kiwiroadtripper.webp 480w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/620b9/kiwiroadtripper.webp 960w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/28063/kiwiroadtripper.webp 1440w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/34ef4/kiwiroadtripper.webp 1920w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/367c7/kiwiroadtripper.webp 2880w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/081c23e303770082bbcf9019c7be2972/0783d/kiwiroadtripper.png 240w,
-/static/081c23e303770082bbcf9019c7be2972/782f4/kiwiroadtripper.png 480w,
-/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png 960w,
-/static/081c23e303770082bbcf9019c7be2972/8d0ff/kiwiroadtripper.png 1440w,
-/static/081c23e303770082bbcf9019c7be2972/a987b/kiwiroadtripper.png 1920w,
-/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png 2880w&quot;
+          srcset=&quot;/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/0783d/kiwiroadtripper.png 240w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/782f4/kiwiroadtripper.png 480w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png 960w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/8d0ff/kiwiroadtripper.png 1440w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/a987b/kiwiroadtripper.png 1920w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png 2880w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png&quot;
+          src=&quot;/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png&quot;
           alt=&quot;42-line-bible.jpg&quot;
           title=&quot;42-line-bible.jpg&quot;
           loading=&quot;lazy&quot;
@@ -105,7 +105,7 @@ Human beings aren’t perfect. Perfection is something that will always elude us
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png&quot;
+    href=&quot;/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -116,28 +116,28 @@ Human beings aren’t perfect. Perfection is something that will always elude us
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/081c23e303770082bbcf9019c7be2972/01472/kiwiroadtripper.webp 240w,
-/static/081c23e303770082bbcf9019c7be2972/222bd/kiwiroadtripper.webp 480w,
-/static/081c23e303770082bbcf9019c7be2972/620b9/kiwiroadtripper.webp 960w,
-/static/081c23e303770082bbcf9019c7be2972/28063/kiwiroadtripper.webp 1440w,
-/static/081c23e303770082bbcf9019c7be2972/34ef4/kiwiroadtripper.webp 1920w,
-/static/081c23e303770082bbcf9019c7be2972/367c7/kiwiroadtripper.webp 2880w&quot;
+          srcset=&quot;/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/01472/kiwiroadtripper.webp 240w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/222bd/kiwiroadtripper.webp 480w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/620b9/kiwiroadtripper.webp 960w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/28063/kiwiroadtripper.webp 1440w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/34ef4/kiwiroadtripper.webp 1920w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/367c7/kiwiroadtripper.webp 2880w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/081c23e303770082bbcf9019c7be2972/0783d/kiwiroadtripper.png 240w,
-/static/081c23e303770082bbcf9019c7be2972/782f4/kiwiroadtripper.png 480w,
-/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png 960w,
-/static/081c23e303770082bbcf9019c7be2972/8d0ff/kiwiroadtripper.png 1440w,
-/static/081c23e303770082bbcf9019c7be2972/a987b/kiwiroadtripper.png 1920w,
-/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png 2880w&quot;
+          srcset=&quot;/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/0783d/kiwiroadtripper.png 240w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/782f4/kiwiroadtripper.png 480w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png 960w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/8d0ff/kiwiroadtripper.png 1440w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/a987b/kiwiroadtripper.png 1920w,
+/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png 2880w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/png&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png&quot;
+          src=&quot;/gastby-portfolio/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png&quot;
           alt=&quot;42-line-bible.jpg&quot;
           title=&quot;42-line-bible.jpg&quot;
           loading=&quot;lazy&quot;

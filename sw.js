@@ -27,26 +27,30 @@ workbox.core.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-a5c3c46804b1b625199d.js"
+    "url": "webpack-runtime-9a7cd5084fa1f91ad778.js"
   },
   {
     "url": "styles.6e991d9f9546b3515b83.css"
   },
   {
-    "url": "styles-ffebcaf4591c55cd3e28.js"
+    "url": "styles-8bbf90bc04a27a1cf76a.js"
   },
   {
     "url": "commons-6ce6ffa66ddb79580897.js"
   },
   {
-    "url": "app-1fc4229f1297bf307144.js"
+    "url": "app-d86fe3adc1771f996474.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-9e2842b22e04347b4e90.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "fc1841157c06994d116ec01139295be8"
+    "revision": "1717d0c7a10e8d2f6542d1225b76bd50"
+  },
+  {
+    "url": "page-data/offline-plugin-app-shell-fallback/page-data.json",
+    "revision": "5ca0fc2798118d9a1ad2a1dc2ef23baa"
   },
   {
     "url": "manifest.json",
@@ -72,12 +76,12 @@ const { NavigationRoute } = workbox.routing
 
 const navigationRoute = new NavigationRoute(async ({ event }) => {
   let { pathname } = new URL(event.request.url)
-  pathname = pathname.replace(new RegExp(`^`), ``)
+  pathname = pathname.replace(new RegExp(`^/gastby-portfolio`), ``)
 
   // Check for resources + the app bundle
   // The latter may not exist if the SW is updating to a new version
   const resources = await idbKeyval.get(`resources:${pathname}`)
-  if (!resources || !(await caches.match(`/app-1fc4229f1297bf307144.js`))) {
+  if (!resources || !(await caches.match(`/gastby-portfolio/app-d86fe3adc1771f996474.js`))) {
     return await fetch(event.request)
   }
 
@@ -90,7 +94,7 @@ const navigationRoute = new NavigationRoute(async ({ event }) => {
     }
   }
 
-  const offlineShell = `/offline-plugin-app-shell-fallback/index.html`
+  const offlineShell = `/gastby-portfolio/offline-plugin-app-shell-fallback/index.html`
   const offlineShellWithKey = workbox.precaching.getCacheKeyForURL(offlineShell)
   return await caches.match(offlineShellWithKey)
 })
