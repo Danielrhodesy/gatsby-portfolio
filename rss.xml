@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by John Doe]]></title><description><![CDATA[Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Sep 2019 11:46:16 GMT</lastBuildDate><item><title><![CDATA[Kiwi Road Tripper]]></title><description><![CDATA[Kiwi Road Tripper is an application to help tourists or just local people of New Zealand to figure out and plan their route through our huge databases full of unique locations to visit. With a simple flowing design to help keep the complication of the app to as minimal as possible. Using React, Redux, mySQL Databases and with keeping the team of 6 in an agile process to have constant checks with our product owners.]]></description><link>https://lumen.netlify.com/posts/new-zealand-road-tripper/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/new-zealand-road-tripper/</guid><pubDate>Wed, 19 Jun 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2 id=&quot;about-kiwi-road-tripper&quot;&gt;&lt;a href=&quot;#about-kiwi-road-tripper&quot; aria-label=&quot;about kiwi road tripper permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;About Kiwi Road Tripper&lt;/h2&gt;
+&lt;p&gt;This application was created in a week with 6 people. Our strengths and weaknesses really showed in this timeframe as we had little time to create a full stack application. With our group sticking to a agile process with daily stand ups and check ins with our product manager we kep to track as much as we could. &lt;/p&gt;
+&lt;p&gt;If we had internal issues we would divide time to resolve them. We use React, Redux, mySQL to create databases for our local API’s so we could manipulate data for the user to see when they toggled it with our suggestions bar. We used leaflet for our maps and had to learn this libraries documentation to fully use it for the project. &lt;/p&gt;
+&lt;p&gt;The application also has more functions as a functional bill splitter to help users split payments during their trip. Also an itinerary to help the user organise their trip. Each one of these functions went on a process of constant redesigning as we had small UX process with getting outside information and trials with our current start functions and made improvements.&lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;a href=&quot;http://kiwiroadtrip.herokuapp.com/#/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;http://kiwiroadtrip.herokuapp.com/#/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 47.15277777777778%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAABY0lEQVQoz31R207CQBTc//8JoyCEtsT4oJEXNYaEcLG0XQqJ9hKkgEpvoL4Q6ni69oIYfZjs2Tkz50y3TBm5aBgOJO4SHKpdASnj0t6ZbkHRbDR4zpe93FvXbRz1TLBiWCYsBqYm4urUuzAsXA5U1Aw7G5QtFyHKQMpoClYSGUQ6dy+FDXnkQVbv0Bz00eRPxWJpL2GeljXyJv+dMBenyZT+NW7bbbQ6XSiGU3z+oZdJWeziDdNt+T0bWNUs3HAN7uMYcmeI2tAqUx34mUzFXxDvQqLWhN6wa2DATSgT7189q9C2CiWo0l/8CQvHqo0rGmI5Js57HCf3D6T97u3rTrO6RjXjywDGwofmvQro85U4jaUPfbaC583wEvq4XwRQ56RLtWk9XUJLtVSbixXGzyFM8jAkO+Azwcc6RuSvsAkDxIGPtzgSWMcxgiAkLkBE/CYKiY/FuYki8vh4Jy+SBLvtFl+TnmnFBLcrvwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/081c23e303770082bbcf9019c7be2972/01472/kiwiroadtripper.webp 240w,
+/static/081c23e303770082bbcf9019c7be2972/222bd/kiwiroadtripper.webp 480w,
+/static/081c23e303770082bbcf9019c7be2972/620b9/kiwiroadtripper.webp 960w,
+/static/081c23e303770082bbcf9019c7be2972/28063/kiwiroadtripper.webp 1440w,
+/static/081c23e303770082bbcf9019c7be2972/34ef4/kiwiroadtripper.webp 1920w,
+/static/081c23e303770082bbcf9019c7be2972/367c7/kiwiroadtripper.webp 2880w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/081c23e303770082bbcf9019c7be2972/0783d/kiwiroadtripper.png 240w,
+/static/081c23e303770082bbcf9019c7be2972/782f4/kiwiroadtripper.png 480w,
+/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png 960w,
+/static/081c23e303770082bbcf9019c7be2972/8d0ff/kiwiroadtripper.png 1440w,
+/static/081c23e303770082bbcf9019c7be2972/a987b/kiwiroadtripper.png 1920w,
+/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png 2880w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png&quot;
+          alt=&quot;42-line-bible.jpg&quot;
+          title=&quot;42-line-bible.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;!-- *The 42–Line Bible, printed by Gutenberg.*
+
+But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.
+
+## The digital age
+
+The first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.
+
+&gt; In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.
+&gt;
+— Massimo Vignelli
+
+Typography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.
+
+## Loss of humanity through transitions
+
+Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.
+
+&lt;figure&gt;
+	&lt;blockquote&gt;
+		&lt;p&gt;Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.&lt;/p&gt;
+		&lt;footer&gt;
+			&lt;cite&gt;— Josef Mueller-Brockmann&lt;/cite&gt;
+		&lt;/footer&gt;
+	&lt;/blockquote&gt;
+&lt;/figure&gt;
+
+Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.
+
+&gt; Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.
+&gt;
+&gt; — Eric Gill
+
+We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.
+
+![type-through-time.jpg](/media/type-through-time.jpg)
+
+*Type through 5 centuries.*
+
+We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.
+
+## Chasing perfection
+
+Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?
+
+*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).* --&gt;</content:encoded></item><item><title><![CDATA[Wordpress Template]]></title><description><![CDATA[This was made in my final term of Yoobee. I created a wordpress templates for our product owner to use and customise to their own design. I used the wordpress codex to create this application also with php.]]></description><link>https://lumen.netlify.com/posts/wordpress-template/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/wordpress-template/</guid><pubDate>Sun, 18 Nov 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h2 id=&quot;ux-process&quot;&gt;&lt;a href=&quot;#ux-process&quot; aria-label=&quot;ux process permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;UX Process&lt;/h2&gt;
+&lt;p&gt;This application started with me going through a UX process multiple times. With a couple weeks I went through the cycle of completing the UX process to get my application to the best it could possibly be before I got into production. It started with general research and interviews with the product owner of what they wanted and what tech I could use to match want he wanted. Then with refining the application with user research from surveys and interviews and repeating this process I started my Low Fi designs. &lt;/p&gt;
+&lt;p&gt;I tested these designs multiple times with user groups and one on one tests. And this UX design research caused me to have multiple changes then have my final Hi Fi to put into production.&lt;/p&gt;
+&lt;h2 id=&quot;production&quot;&gt;&lt;a href=&quot;#production&quot; aria-label=&quot;production permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Production&lt;/h2&gt;
+&lt;p&gt;This project used wordpress and PHP to create this template. The application had to be responsive over all devices for the clarity of the users to my product owner. The application would let the user create multiple pages and also edit any kind of contacts with making tabs and changing colours to pages of the site.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 47.15277777777778%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAABYlAAAWJQFJUiTwAAABY0lEQVQoz31R207CQBTc//8JoyCEtsT4oJEXNYaEcLG0XQqJ9hKkgEpvoL4Q6ni69oIYfZjs2Tkz50y3TBm5aBgOJO4SHKpdASnj0t6ZbkHRbDR4zpe93FvXbRz1TLBiWCYsBqYm4urUuzAsXA5U1Aw7G5QtFyHKQMpoClYSGUQ6dy+FDXnkQVbv0Bz00eRPxWJpL2GeljXyJv+dMBenyZT+NW7bbbQ6XSiGU3z+oZdJWeziDdNt+T0bWNUs3HAN7uMYcmeI2tAqUx34mUzFXxDvQqLWhN6wa2DATSgT7189q9C2CiWo0l/8CQvHqo0rGmI5Js57HCf3D6T97u3rTrO6RjXjywDGwofmvQro85U4jaUPfbaC583wEvq4XwRQ56RLtWk9XUJLtVSbixXGzyFM8jAkO+Azwcc6RuSvsAkDxIGPtzgSWMcxgiAkLkBE/CYKiY/FuYki8vh4Jy+SBLvtFl+TnmnFBLcrvwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/081c23e303770082bbcf9019c7be2972/01472/kiwiroadtripper.webp 240w,
+/static/081c23e303770082bbcf9019c7be2972/222bd/kiwiroadtripper.webp 480w,
+/static/081c23e303770082bbcf9019c7be2972/620b9/kiwiroadtripper.webp 960w,
+/static/081c23e303770082bbcf9019c7be2972/28063/kiwiroadtripper.webp 1440w,
+/static/081c23e303770082bbcf9019c7be2972/34ef4/kiwiroadtripper.webp 1920w,
+/static/081c23e303770082bbcf9019c7be2972/367c7/kiwiroadtripper.webp 2880w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/081c23e303770082bbcf9019c7be2972/0783d/kiwiroadtripper.png 240w,
+/static/081c23e303770082bbcf9019c7be2972/782f4/kiwiroadtripper.png 480w,
+/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png 960w,
+/static/081c23e303770082bbcf9019c7be2972/8d0ff/kiwiroadtripper.png 1440w,
+/static/081c23e303770082bbcf9019c7be2972/a987b/kiwiroadtripper.png 1920w,
+/static/081c23e303770082bbcf9019c7be2972/8e724/kiwiroadtripper.png 2880w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/081c23e303770082bbcf9019c7be2972/f570d/kiwiroadtripper.png&quot;
+          alt=&quot;42-line-bible.jpg&quot;
+          title=&quot;42-line-bible.jpg&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Mental Health Foundation Application]]></title><description><![CDATA[Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.]]></description><link>https://lumen.netlify.com/posts/mental-health-foundation-application/</link><guid isPermaLink="false">https://lumen.netlify.com/posts/mental-health-foundation-application/</guid><pubDate>Thu, 02 Aug 2018 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a&gt;&lt;a href=&quot;https://mhf-app.herokuapp.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://mhf-app.herokuapp.com/&lt;/a&gt;&lt;/a&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
